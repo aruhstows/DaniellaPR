@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "AUTO",
-    "baseBranches": ["main", "feature-123"]
+    "baseBranches": ["main", "feature-123", "fail-my-check"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
